@@ -1,0 +1,15 @@
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.exe
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.deps.json
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.runtimeconfig.json
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.dll
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.pdb
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.csproj.AssemblyReference.cache
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.AssemblyInfoInputs.cache
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.AssemblyInfo.cs
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.csproj.CoreCompileInputs.cache
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.dll
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\refint\ArrayGame.dll
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.pdb
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.genruntimeconfig.cache
+C:\Users\Good2\source\repos\ArrayGame\ArrayGame\obj\Debug\net6.0\ref\ArrayGame.dll
